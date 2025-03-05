@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1072133924080",
+    "project_id": "diamond-sudoku",
+    "storage_bucket": "diamond-sudoku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072133924080:android:5231fcae597bdb9a198e35",
+        "android_client_info": {
+          "package_name": "com.vgames.diamondsudoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072133924080-kl3a24f006p20ktcaat0vngnmv5v6h8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHy7FSTBtjil4bYSfg6ZU0FVb0OsnJ_pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072133924080-kl3a24f006p20ktcaat0vngnmv5v6h8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072133924080-34p3la7cnko22k9lolrqh26st0r4s32o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vgames.diamondsudoku"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
